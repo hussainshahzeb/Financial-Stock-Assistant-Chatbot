@@ -1,5 +1,5 @@
-# StockSage
-StockSage is a powerful financial stock assistant chatbot designed to provide real-time stock analysis and information. This repository contains the source code for the StockSage chatbot, which is built using **Python, Streamlit, OpenAI's GPT-3.5 model, and various financial libraries.**
+# Stock Assistant Chatbot
+Stock Assistant Chatbot is a powerful financial stock assistant chatbot designed to provide real-time stock analysis and information. This repository contains the source code for the StockSage chatbot, which is built using **Python, Streamlit, OpenAI's GPT-3.5 model, and various financial libraries.**
 
 ## Features
 - Real-Time Stock Analysis: Get the latest stock price, calculate moving averages, RSI, MACD, and plot stock prices over the last year.
